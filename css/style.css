@@ -284,9 +284,8 @@ button {
 }
 
 .right_header_info {
-    width: 100%;
-    float: left;
-    padding: 8px 0 0;
+    float: right;
+    padding: 0;
 }
 
 .right_header_info ul {
