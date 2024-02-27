@@ -278,7 +278,7 @@ button {
 /*---------------------------------------------------------------------
     layout new css 
 ---------------------------------------------------------------------*/
-
+.customer_box
 .container {
     max-width: 1170px;
 }
@@ -676,8 +676,8 @@ ul.spinit li a:hover {
 }
 
 .customer .customer_text .customer_box i {
-    border-radius: 133px;
-    padding: 72px 10px 75px 10px;
+    border-radius: 0;
+    padding: 100px 15px 100px 15px;
     background-image: linear-gradient(to bottom, #bc883d, #f5e47b, #bc883d);
 }
 
