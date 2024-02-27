@@ -278,7 +278,7 @@ button {
 /*---------------------------------------------------------------------
     layout new css 
 ---------------------------------------------------------------------*/
-.customer_box
+
 .container {
     max-width: 1170px;
 }
@@ -737,18 +737,19 @@ border: inherit;
 border-bottom: #ddd solid 1px;
 border-radius: inherit;}
 **/
-
+.submit
 .form_main .send_btn {
     font-size: 17px;
     border: #fff solid 2px;
     background-color: transparent;
     color: #fff;
-    padding: 10px 60px;
+    padding: 30px 25px;
     border-radius: 35px;
     text-align: center;
     margin: 0 auto;
     display: block;
-    margin-top: 20px;
+    margin-top: 30px;
+    line-height: 0;
 }
 
 .form_main .send_btn:hover {
@@ -785,7 +786,7 @@ border-radius: inherit;}
 .submit {
     margin-top: 15px;
     background: transparent;
-    padding: 5px 45px;
+    padding: 10px 25px;
     color: #5d5756;
     transition: all .4s ease-in;
     float: right;
@@ -796,6 +797,7 @@ border-radius: inherit;}
     font-size: 17px;
     position: relative;
     font-weight: 500;
+    
 }
 
 .submit:hover {
